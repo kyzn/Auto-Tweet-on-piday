@@ -14,4 +14,4 @@ Of all the things I need to do, I'm uploading a small script that would tweet "3
 ```
 This would send tweet exacty on the intended second (of your computer time, of course). Although second is not visible on Twitter Web client, it is (hopefully) stored somewhere.
 
-5. After Pi Day is over, you can destroy the app, clear your crontab, and go get some pie.
+After Pi Day is over, you can destroy the app, clear your crontab, and go get some pie.
